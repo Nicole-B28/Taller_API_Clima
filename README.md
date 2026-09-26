@@ -1,6 +1,5 @@
 # Análisis de datos meteorológicos mediante Open-Meteo API
 
-## Taller: Contestando preguntas sobre los datos
 
 ## Descripción
 
