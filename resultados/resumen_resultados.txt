@@ -1,0 +1,57 @@
+
+ANÁLISIS METEOROLÓGICO
+PERIODO: AGOSTO DE 2026
+
+
+PREGUNTA 1
+¿Qué día presentó la mayor amplitud térmica?
+
+Fecha:
+2026-08-27
+
+Temperatura máxima:
+28.00 °C
+
+Temperatura mínima:
+13.70 °C
+
+Amplitud térmica:
+14.30 °C
+
+
+PREGUNTA 2
+¿Qué semana registró la temperatura promedio más alta?
+
+Semana:
+5
+
+Temperatura promedio:
+20.23 °C
+
+
+PREGUNTA 3
+¿Los días con lluvia tuvieron una temperatura promedio
+diferente a los días sin lluvia?
+
+Temperatura promedio con lluvia:
+19.46 °C
+
+Temperatura promedio sin lluvia:
+19.67 °C
+
+Diferencia:
+-0.21 °C
+
+
+PREGUNTA 4
+¿Existe relación entre la precipitación
+y la velocidad máxima del viento?
+
+Correlación de Pearson:
+0.338
+
+Dirección de la relación:
+positiva
+
+La correlación representa una asociación estadística
+y no implica causalidad.
